@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shamim Reza
 - 👀 I’m interested in Computer programming 
 - 🌱 I’m currently learning Android development using Java programming language
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Android App development
 - 📫 How to reach me ...
 
 <!---
